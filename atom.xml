@@ -6,7 +6,7 @@
   <link href="http://chenjw.ml/atom.xml" rel="self"/>
   
   <link href="http://chenjw.ml/"/>
-  <updated>2020-12-04T08:35:38.180Z</updated>
+  <updated>2020-12-04T08:44:27.873Z</updated>
   <id>http://chenjw.ml/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://chenjw.ml/posts/20201204-bootstraptable_select_value.html"/>
     <id>http://chenjw.ml/posts/20201204-bootstraptable_select_value.html</id>
     <published>2020-12-04T08:05:03.000Z</published>
-    <updated>2020-12-04T08:35:38.180Z</updated>
+    <updated>2020-12-04T08:44:27.873Z</updated>
     
     
       
@@ -34,7 +34,7 @@
     
     
     
-    <category term="前端" scheme="http://chenjw.ml/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="bootstrap" scheme="http://chenjw.ml/categories/bootstrap/"/>
     
     
     <category term="bootstrapTable" scheme="http://chenjw.ml/tags/bootstrapTable/"/>
