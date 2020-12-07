@@ -6,7 +6,7 @@
   <link href="http://chenjw.ml/atom.xml" rel="self"/>
   
   <link href="http://chenjw.ml/"/>
-  <updated>2020-12-04T08:44:27.873Z</updated>
+  <updated>2020-12-07T02:31:18.948Z</updated>
   <id>http://chenjw.ml/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="http://chenjw.ml/posts/20201204-bootstraptable_select_value.html"/>
     <id>http://chenjw.ml/posts/20201204-bootstraptable_select_value.html</id>
     <published>2020-12-04T08:05:03.000Z</published>
-    <updated>2020-12-04T08:44:27.873Z</updated>
+    <updated>2020-12-07T02:31:18.948Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
+    <summary type="html">最近在使用Bootstrap table ，有一个在某一列添加一个下拉列表，并且通过 “getAllSelections”方法获取所选行的需求，在实现这个功能的时，走了一些弯路，遇到了一些坑。所以今天总结出来，既是自己的学习，也分享给大家，希望能够有些帮助。</summary>
     
     
     
