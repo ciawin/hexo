@@ -6,7 +6,7 @@
   <link href="http://chenjw.ml/atom.xml" rel="self"/>
   
   <link href="http://chenjw.ml/"/>
-  <updated>2020-12-07T02:31:18.948Z</updated>
+  <updated>2020-12-08T05:07:47.662Z</updated>
   <id>http://chenjw.ml/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小米magisk_hide隐藏无效</title>
+    <link href="http://chenjw.ml/posts/20201208-xiaomi_magisk_hide.html"/>
+    <id>http://chenjw.ml/posts/20201208-xiaomi_magisk_hide.html</id>
+    <published>2020-12-08T03:57:32.000Z</published>
+    <updated>2020-12-08T05:07:47.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="应用" scheme="http://chenjw.ml/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+    <category term="小米" scheme="http://chenjw.ml/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+    <category term="magisk" scheme="http://chenjw.ml/tags/magisk/"/>
+    
+    <category term="root" scheme="http://chenjw.ml/tags/root/"/>
+    
+  </entry>
   
   <entry>
     <title>BootstrapTable在指定列中添加下拉框控件，并获取所选值</title>
